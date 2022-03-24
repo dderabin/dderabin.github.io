@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9517f8b.css",
-    "main.js": "/static/js/main.b7719038.js",
+    "main.css": "/static/css/main.6da178fd.css",
+    "main.js": "/static/js/main.2bebc06d.js",
     "static/js/787.55c8f489.chunk.js": "/static/js/787.55c8f489.chunk.js",
     "static/media/user_trading1.svg": "/static/media/user_trading1.67d3c8992aacc61875b2e246bb4db450.svg",
     "static/media/selection-banner-img.jpg": "/static/media/selection-banner-img.22b670f9eafd001b7a22.jpg",
@@ -70,6 +70,7 @@
     "index.html": "/index.html",
     "static/media/portfolioperformance-icon-dark.svg": "/static/media/portfolioperformance-icon-dark.508386374c7798e5d22e980089b70676.svg",
     "static/media/eye-hidden.svg": "/static/media/eye-hidden.269df25c7126ab1bb0ce2e4c44bf6dac.svg",
+    "static/media/eye-show.svg": "/static/media/eye-show.f3a60335e9e52a4f97ff1df69e089cb6.svg",
     "static/media/apple.svg": "/static/media/apple.ae83bf72931fcbdd4b9780a4a9af6493.svg",
     "static/media/list-view.svg": "/static/media/list-view.b1aa160ee3d112947301c48c199833c5.svg",
     "static/media/notification.svg": "/static/media/notification.078b25f4f4561e85a9eeb79e2ae8c364.svg",
@@ -90,12 +91,12 @@
     "static/media/open_dir.svg": "/static/media/open_dir.b78ed0d0e16074417f246649c02435cf.svg",
     "static/media/right-arrow.svg": "/static/media/right-arrow.2d9e037d76fb1b767bb3ff7a0e256efb.svg",
     "static/media/left-arrow.svg": "/static/media/left-arrow.89879f66475909b0035d1385d0bcd6e2.svg",
-    "main.b9517f8b.css.map": "/static/css/main.b9517f8b.css.map",
-    "main.b7719038.js.map": "/static/js/main.b7719038.js.map",
+    "main.6da178fd.css.map": "/static/css/main.6da178fd.css.map",
+    "main.2bebc06d.js.map": "/static/js/main.2bebc06d.js.map",
     "787.55c8f489.chunk.js.map": "/static/js/787.55c8f489.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9517f8b.css",
-    "static/js/main.b7719038.js"
+    "static/css/main.6da178fd.css",
+    "static/js/main.2bebc06d.js"
   ]
 }
