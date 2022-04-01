@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f20d7f30.css",
-    "main.js": "/static/js/main.fda16e07.js",
+    "main.css": "/static/css/main.4f700f2d.css",
+    "main.js": "/static/js/main.b2eba687.js",
     "static/js/787.55c8f489.chunk.js": "/static/js/787.55c8f489.chunk.js",
     "static/media/selection-banner-img.jpg": "/static/media/selection-banner-img.22b670f9eafd001b7a22.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -43,7 +43,6 @@
     "static/media/user-1.svg": "/static/media/user-1.eac30fc7bdcc56cd5e9511e668416f9a.svg",
     "static/media/logo.svg": "/static/media/logo.48f255f700f8f7e2ac9f60e14f28bada.svg",
     "static/media/tradeterminal-icon-dark.svg": "/static/media/tradeterminal-icon-dark.11346b13ee2c31646cc16910a6bed95c.svg",
-    "static/media/dash_portfolio.svg": "/static/media/dash_portfolio.b5990250a97b9e3bd705554e1a1cb25f.svg",
     "static/media/g-authenticator.svg": "/static/media/g-authenticator.91e26d4f9bcc34338a237e77c6151c90.svg",
     "static/media/trading-symbols.svg": "/static/media/trading-symbols.103cf9a2fb81102a67379cb634b6f53c.svg",
     "static/media/dash_ftx.svg": "/static/media/dash_ftx.c67f47e4996ee4dc6bd3f001817436a7.svg",
@@ -51,6 +50,8 @@
     "static/media/dash_scorecard.svg": "/static/media/dash_scorecard.b5216c286cc3c76eb46427d90b74b6d8.svg",
     "static/media/exchangeaccount-icon-dark.svg": "/static/media/exchangeaccount-icon-dark.7fe05b7384711d93726e29ffb39cf47d.svg",
     "static/media/dash_profitability.svg": "/static/media/dash_profitability.b95a1d13ec6691bc7fe4e7641926cb2f.svg",
+    "static/media/case_active.svg": "/static/media/case_active.e2f2d19d72fcfd78713703ad9592ee58.svg",
+    "static/media/case_deactive.svg": "/static/media/case_deactive.7e9e569a835e134733c0f74511c4314e.svg",
     "static/media/dashboard.svg": "/static/media/dashboard.c79d802a45d7d33b0019862cbbad494f.svg",
     "static/media/conpytrading-icon-dark.svg": "/static/media/conpytrading-icon-dark.91bf7f1889c7fece34f216778a7e826e.svg",
     "static/media/traders.svg": "/static/media/traders.e91179ddb85119ca1e5fb0ac5218638e.svg",
@@ -93,12 +94,12 @@
     "static/media/open_dir.svg": "/static/media/open_dir.b78ed0d0e16074417f246649c02435cf.svg",
     "static/media/right-arrow.svg": "/static/media/right-arrow.2d9e037d76fb1b767bb3ff7a0e256efb.svg",
     "static/media/left-arrow.svg": "/static/media/left-arrow.89879f66475909b0035d1385d0bcd6e2.svg",
-    "main.f20d7f30.css.map": "/static/css/main.f20d7f30.css.map",
-    "main.fda16e07.js.map": "/static/js/main.fda16e07.js.map",
+    "main.4f700f2d.css.map": "/static/css/main.4f700f2d.css.map",
+    "main.b2eba687.js.map": "/static/js/main.b2eba687.js.map",
     "787.55c8f489.chunk.js.map": "/static/js/787.55c8f489.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f20d7f30.css",
-    "static/js/main.fda16e07.js"
+    "static/css/main.4f700f2d.css",
+    "static/js/main.b2eba687.js"
   ]
 }
