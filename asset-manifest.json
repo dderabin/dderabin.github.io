@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cccdf64.css",
-    "main.js": "/static/js/main.9938a67a.js",
+    "main.css": "/static/css/main.f1359982.css",
+    "main.js": "/static/js/main.8ae50baf.js",
     "static/js/787.55c8f489.chunk.js": "/static/js/787.55c8f489.chunk.js",
     "static/media/selection-banner-img.jpg": "/static/media/selection-banner-img.22b670f9eafd001b7a22.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -31,6 +31,7 @@
     "static/media/exchnages-ethereum.png": "/static/media/exchnages-ethereum.320dc6a12f4e818d8189.png",
     "static/media/help-left-bg.png": "/static/media/help-left-bg.a36f503c48428cbfcefa.png",
     "static/media/cryptotrading-bg.png": "/static/media/cryptotrading-bg.e1c036d3ecf57951da3a.png",
+    "static/media/avatar.jpg": "/static/media/avatar.432abd57e2845dd74538.jpg",
     "static/media/trade-executed.svg": "/static/media/trade-executed.d61226722c784a37ca10ab7a9f22e2a7.svg",
     "static/media/trading-box-img.png": "/static/media/trading-box-img.5806ac8bf4d484317f4f.png",
     "static/media/avatar-4.jpg": "/static/media/avatar-4.c0daee9b6c8573633601.jpg",
@@ -57,17 +58,21 @@
     "static/media/traders.svg": "/static/media/traders.e91179ddb85119ca1e5fb0ac5218638e.svg",
     "static/media/dash_subscription.svg": "/static/media/dash_subscription.f808c631094c78ac5849877d6101ed7e.svg",
     "static/media/pricecomparison-icon-dark.svg": "/static/media/pricecomparison-icon-dark.fbdd6b4c3047e328448148719f50ebde.svg",
+    "static/media/message.svg": "/static/media/message.ac2d877cccde4c94be7ded0c36cfccde.svg",
     "static/media/signalprovider-icon-dark.svg": "/static/media/signalprovider-icon-dark.76c0f7b73d744d7a8741c08ef89019da.svg",
     "static/media/signal-provider.svg": "/static/media/signal-provider.0355e07ab99aa94ca723660b739803d7.svg",
+    "static/media/heart.svg": "/static/media/heart.315dfc17d7687b9a62ae48d1e2cf768d.svg",
     "static/media/administrator.svg": "/static/media/administrator.1d7924ce3e228ba64a3b707afab09a5d.svg",
+    "static/media/loop.svg": "/static/media/loop.38fe86f087a0c47b62e4bc8688566093.svg",
     "static/media/login-logs.svg": "/static/media/login-logs.4e526516ff6415ec6adfef5965e2067a.svg",
     "static/media/setting-mobile.svg": "/static/media/setting-mobile.e525512b518f5725ad2e4745c20205c1.svg",
+    "static/media/share.svg": "/static/media/share.8ca2dd2697a7bf382d0ce529ba43949e.svg",
     "static/media/modal-close.svg": "/static/media/modal-close.c56b6b8d6684fbfc13f540da9464ac5a.svg",
     "static/media/dash_binance.svg": "/static/media/dash_binance.c368456db30cbeaf458fcfb54921549c.svg",
     "static/media/trade-signals.svg": "/static/media/trade-signals.dd01864354c01b44a04e2cfaaa216978.svg",
     "static/media/grid-filled.svg": "/static/media/grid-filled.22dac9237cacea38fecd11dae32ee6a0.svg",
     "static/media/grid-view.svg": "/static/media/grid-view.51ff87238d2e1038cd4790516510aeaf.svg",
-    "static/media/message.svg": "/static/media/message.8e9d0b16b583c6ff9b432da2f07c3eb9.svg",
+    "static/media/email.svg": "/static/media/email.8e9d0b16b583c6ff9b432da2f07c3eb9.svg",
     "index.html": "/index.html",
     "static/media/favourite-icon-dark.svg": "/static/media/favourite-icon-dark.e3158e3590713a202163398aa3a232cb.svg",
     "static/media/portfolioperformance-icon-dark.svg": "/static/media/portfolioperformance-icon-dark.508386374c7798e5d22e980089b70676.svg",
@@ -96,12 +101,12 @@
     "static/media/open_dir.svg": "/static/media/open_dir.b78ed0d0e16074417f246649c02435cf.svg",
     "static/media/right-arrow.svg": "/static/media/right-arrow.2d9e037d76fb1b767bb3ff7a0e256efb.svg",
     "static/media/left-arrow.svg": "/static/media/left-arrow.89879f66475909b0035d1385d0bcd6e2.svg",
-    "main.5cccdf64.css.map": "/static/css/main.5cccdf64.css.map",
-    "main.9938a67a.js.map": "/static/js/main.9938a67a.js.map",
+    "main.f1359982.css.map": "/static/css/main.f1359982.css.map",
+    "main.8ae50baf.js.map": "/static/js/main.8ae50baf.js.map",
     "787.55c8f489.chunk.js.map": "/static/js/787.55c8f489.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cccdf64.css",
-    "static/js/main.9938a67a.js"
+    "static/css/main.f1359982.css",
+    "static/js/main.8ae50baf.js"
   ]
 }
