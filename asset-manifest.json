@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.63c45fab.css",
-    "main.js": "/static/js/main.f4d19174.js",
+    "main.css": "/static/css/main.8c5133ca.css",
+    "main.js": "/static/js/main.00b1e5c8.js",
     "static/js/787.55c8f489.chunk.js": "/static/js/787.55c8f489.chunk.js",
     "static/media/selection-banner-img.jpg": "/static/media/selection-banner-img.22b670f9eafd001b7a22.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -87,6 +87,7 @@
     "static/media/dir_down.svg": "/static/media/dir_down.19b57cf0ed3e87da091c692fcbe2fe3a.svg",
     "static/media/table-arrow.svg": "/static/media/table-arrow.5581818f3b5c019feab8f88133c361e3.svg",
     "static/media/reports-icon-dark.svg": "/static/media/reports-icon-dark.499ec9f4c2d3399668fb2f3fc80b8ade.svg",
+    "static/media/drop-down.svg": "/static/media/drop-down.a14d5a680f4e4e733548ea83002234c4.svg",
     "static/media/dustbin.svg": "/static/media/dustbin.ee7cb9ad61cf39be798e1ef63ad8d21b.svg",
     "static/media/user.svg": "/static/media/user.956490c68d4388acbe40f71a07955448.svg",
     "static/media/edit.svg": "/static/media/edit.9ca4d38942430a68208d7548ba6601b8.svg",
@@ -101,12 +102,12 @@
     "static/media/open_dir.svg": "/static/media/open_dir.b78ed0d0e16074417f246649c02435cf.svg",
     "static/media/right-arrow.svg": "/static/media/right-arrow.2d9e037d76fb1b767bb3ff7a0e256efb.svg",
     "static/media/left-arrow.svg": "/static/media/left-arrow.89879f66475909b0035d1385d0bcd6e2.svg",
-    "main.63c45fab.css.map": "/static/css/main.63c45fab.css.map",
-    "main.f4d19174.js.map": "/static/js/main.f4d19174.js.map",
+    "main.8c5133ca.css.map": "/static/css/main.8c5133ca.css.map",
+    "main.00b1e5c8.js.map": "/static/js/main.00b1e5c8.js.map",
     "787.55c8f489.chunk.js.map": "/static/js/787.55c8f489.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63c45fab.css",
-    "static/js/main.f4d19174.js"
+    "static/css/main.8c5133ca.css",
+    "static/js/main.00b1e5c8.js"
   ]
 }
