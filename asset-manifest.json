@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.daf99ef0.css",
-    "main.js": "/static/js/main.a3d6e7e5.js",
+    "main.css": "/static/css/main.b1e61570.css",
+    "main.js": "/static/js/main.0b90c797.js",
     "static/js/787.55c8f489.chunk.js": "/static/js/787.55c8f489.chunk.js",
     "static/media/selection-banner-img.jpg": "/static/media/selection-banner-img.22b670f9eafd001b7a22.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -14,6 +14,8 @@
     "static/media/POPPINS-SEMIBOLD.TTF": "/static/media/POPPINS-SEMIBOLD.cce5625b56ec678e4202.TTF",
     "static/media/POPPINS-BOLD.TTF": "/static/media/POPPINS-BOLD.404e299be26d78e66794.TTF",
     "static/media/alltrader-img3.jpg": "/static/media/alltrader-img3.6225a02b5ba4b36b9b45.jpg",
+    "static/media/chat_mobile.png": "/static/media/chat_mobile.e6a0f8a0e7bab94f0315.png",
+    "static/media/chat_laptop.png": "/static/media/chat_laptop.6c670ca56aef16b1ba5e.png",
     "static/media/alltrader-img2.jpg": "/static/media/alltrader-img2.70875d294e60c1fa3e2a.jpg",
     "static/media/alltrader-img5.jpg": "/static/media/alltrader-img5.719b805de95f5893df9d.jpg",
     "static/media/alltrader-img.jpg": "/static/media/alltrader-img.6158964992c0f2ebd3db.jpg",
@@ -107,12 +109,12 @@
     "static/media/open_dir.svg": "/static/media/open_dir.b78ed0d0e16074417f246649c02435cf.svg",
     "static/media/right-arrow.svg": "/static/media/right-arrow.2d9e037d76fb1b767bb3ff7a0e256efb.svg",
     "static/media/left-arrow.svg": "/static/media/left-arrow.89879f66475909b0035d1385d0bcd6e2.svg",
-    "main.daf99ef0.css.map": "/static/css/main.daf99ef0.css.map",
-    "main.a3d6e7e5.js.map": "/static/js/main.a3d6e7e5.js.map",
+    "main.b1e61570.css.map": "/static/css/main.b1e61570.css.map",
+    "main.0b90c797.js.map": "/static/js/main.0b90c797.js.map",
     "787.55c8f489.chunk.js.map": "/static/js/787.55c8f489.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.daf99ef0.css",
-    "static/js/main.a3d6e7e5.js"
+    "static/css/main.b1e61570.css",
+    "static/js/main.0b90c797.js"
   ]
 }
